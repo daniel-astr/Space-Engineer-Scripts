@@ -106,7 +106,7 @@ namespace IngameScript
             }
             updateBlocks();
 
-            if (automatic_update)
+            if (automatic_update && timer != null)
                 Runtime.UpdateFrequency = UpdateFrequency.Update100;
             else
                 Runtime.UpdateFrequency = UpdateFrequency.Once;
@@ -147,7 +147,6 @@ namespace IngameScript
                     timer = tempTimers[0];
                     Echo("Timer block detected, program is set to run of the timer instead of automatic update");
                 }
-                Runtime.UpdateFrequency = UpdateFrequency.Once;
                 timer.StartCountdown();
             }
             setupAssemblers(tempAssemblers);
