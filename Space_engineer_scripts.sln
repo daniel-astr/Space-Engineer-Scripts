@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clear_custom_data", "clear_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emtpy_prodUnits", "emtpy_prodUnits\emtpy_prodUnits.csproj", "{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ice_balancer", "ice_balancer\ice_balancer.csproj", "{FC75D464-A371-4E8A-83C7-1053F401797A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -32,6 +34,8 @@ Global
 		{DD1A085C-3B74-48F3-BF07-A184DD480933}.Debug|x64.Build.0 = Debug|x64
 		{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}.Debug|x64.ActiveCfg = Debug|x64
 		{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}.Debug|x64.Build.0 = Debug|x64
+		{FC75D464-A371-4E8A-83C7-1053F401797A}.Debug|x64.ActiveCfg = Debug|x64
+		{FC75D464-A371-4E8A-83C7-1053F401797A}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
