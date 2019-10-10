@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empty_mining_ship", "Space_engineer_scripts\empty_mining_ship.csproj", "{D97DA9B5-7880-4706-A853-EE38A8402DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventory_sorter", "inventory_sorter\inventory_sorter.csproj", "{3D7FAEF3-01DF-43EA-A6E0-EF35A73E6F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solar_panels", "solar_panels\solar_panels.csproj", "{16F3F169-3F3C-4CC6-A026-3493472E9B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airlocks", "airlocks\airlocks.csproj", "{59B50C30-C09D-49C5-9A5F-967D4D888BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clear_custom_data", "clear_custom_data\clear_custom_data.csproj", "{DD1A085C-3B74-48F3-BF07-A184DD480933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emtpy_prodUnits", "emtpy_prodUnits\emtpy_prodUnits.csproj", "{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97DA9B5-7880-4706-A853-EE38A8402DB4}.Debug|x64.ActiveCfg = Debug|x64
+		{D97DA9B5-7880-4706-A853-EE38A8402DB4}.Debug|x64.Build.0 = Debug|x64
+		{3D7FAEF3-01DF-43EA-A6E0-EF35A73E6F84}.Debug|x64.ActiveCfg = Debug|x64
+		{3D7FAEF3-01DF-43EA-A6E0-EF35A73E6F84}.Debug|x64.Build.0 = Debug|x64
+		{16F3F169-3F3C-4CC6-A026-3493472E9B1B}.Debug|x64.ActiveCfg = Debug|x64
+		{16F3F169-3F3C-4CC6-A026-3493472E9B1B}.Debug|x64.Build.0 = Debug|x64
+		{59B50C30-C09D-49C5-9A5F-967D4D888BDB}.Debug|x64.ActiveCfg = Debug|x64
+		{59B50C30-C09D-49C5-9A5F-967D4D888BDB}.Debug|x64.Build.0 = Debug|x64
+		{DD1A085C-3B74-48F3-BF07-A184DD480933}.Debug|x64.ActiveCfg = Debug|x64
+		{DD1A085C-3B74-48F3-BF07-A184DD480933}.Debug|x64.Build.0 = Debug|x64
+		{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}.Debug|x64.ActiveCfg = Debug|x64
+		{B390A094-53ED-4B05-B50C-6B7EF0CE48C9}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2683B2BA-E593-4FD0-9345-7939E6F935C1}
+	EndGlobalSection
+EndGlobal
